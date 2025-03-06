@@ -1,0 +1,7 @@
+# Env files # 
+
+*.env 
+
+# Mise #
+
+mise.toml
